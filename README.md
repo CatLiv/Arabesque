@@ -8,3 +8,4 @@ On summer 2018, I decided to come back to some SW dev (I used to code yeaaaaaaaa
 Lessons learnt :
 - For whatever question, www.stackoverflow.com is your best friend
 - For Arabesque, Python module Turtle https://docs.python.org/2/library/turtle.html is also your best friend
+- IPE PyCharm https://www.jetbrains.com/pycharm/download/#section=windows for Python development is ... a charm ! 
