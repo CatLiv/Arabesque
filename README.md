@@ -9,3 +9,4 @@ Lessons learnt :
 - For whatever question, www.stackoverflow.com is your best friend
 - For Arabesque, Python module Turtle https://docs.python.org/2/library/turtle.html is also your best friend
 - IPE PyCharm https://www.jetbrains.com/pycharm/download/#section=windows for Python development is ... a charm ! 
+- Some figures coding are from me, I also gathered here figures I found interesting and put the source URL link in the .py file
